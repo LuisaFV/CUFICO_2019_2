@@ -1,0 +1,12 @@
+PROFESOR RESULTA QUE SE ME OLVIDO QUE TOCABA ENVIAR LA EXPLICACION EN UN ARCHIVO TXT Y YO LO HABIA PUESTO ERA EN EL
+NOTEBOOK HASTA QUE CAI EN CUENTAAA!!!!!!
+NO ME BAJE POR ESTO PORFIIIIIIIIIIIIIIII
+
+Explicación:
+
+Como indiqué en el notebook, mi histograma generado dio un poco separado del original debido a que uno mismo tenía 
+que ir acotando el intervalo de mu y c; en mi caso, debí aumenetar un poco c generado porque el pico subió mucho 
+y disminuir el mu generado para que se acercara al histograma de los datos. 
+
+El chi-cuadrado es un indicativo que me permite saber que tanto "error" hay en mis muestras generadas, mientras más
+cercano sea su valor a cero, mejor son las muestras generadas porque su error es menor. 
